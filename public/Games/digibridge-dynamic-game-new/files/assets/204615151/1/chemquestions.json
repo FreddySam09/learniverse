@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the atomic number of carbon?",
+      "options": [
+        { "id": 1, "text": "6" },
+        { "id": 2, "text": "12" },
+        { "id": 3, "text": "8" },
+        { "id": 4, "text": "16" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 2,
+      "text": "What is the chemical formula of methane?",
+      "options": [
+        { "id": 1, "text": "CH4" },
+        { "id": 2, "text": "C2H6" },
+        { "id": 3, "text": "CO2" },
+        { "id": 4, "text": "C6H12O6" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 3,
+      "text": "What is the symbol for sodium?",
+      "options": [
+        { "id": 1, "text": "Na" },
+        { "id": 2, "text": "K" },
+        { "id": 3, "text": "S" },
+        { "id": 4, "text": "Cl" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 4,
+      "text": "What is the pH value of pure water?",
+      "options": [
+        { "id": 1, "text": "7" },
+        { "id": 2, "text": "1" },
+        { "id": 3, "text": "14" },
+        { "id": 4, "text": "0" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 5,
+      "text": "Which gas is known as laughing gas?",
+      "options": [
+        { "id": 1, "text": "Nitrous oxide (N2O)" },
+        { "id": 2, "text": "Oxygen (O2)" },
+        { "id": 3, "text": "Carbon dioxide (CO2)" },
+        { "id": 4, "text": "Nitrogen (N2)" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 6,
+      "text": "What is the formula for hydrochloric acid?",
+      "options": [
+        { "id": 1, "text": "HCl" },
+        { "id": 2, "text": "H2SO4" },
+        { "id": 3, "text": "NaOH" },
+        { "id": 4, "text": "HNO3" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 7,
+      "text": "What is the molecular weight of water?",
+      "options": [
+        { "id": 1, "text": "18 g/mol" },
+        { "id": 2, "text": "16 g/mol" },
+        { "id": 3, "text": "20 g/mol" },
+        { "id": 4, "text": "22 g/mol" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 8,
+      "text": "What is the process of separating a solid from a liquid by filtering?",
+      "options": [
+        { "id": 1, "text": "Filtration" },
+        { "id": 2, "text": "Evaporation" },
+        { "id": 3, "text": "Distillation" },
+        { "id": 4, "text": "Chromatography" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 9,
+      "text": "Which of the following is a noble gas?",
+      "options": [
+        { "id": 1, "text": "Helium" },
+        { "id": 2, "text": "Oxygen" },
+        { "id": 3, "text": "Nitrogen" },
+        { "id": 4, "text": "Chlorine" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 10,
+      "text": "What is the main element found in all organic compounds?",
+      "options": [
+        { "id": 1, "text": "Carbon" },
+        { "id": 2, "text": "Hydrogen" },
+        { "id": 3, "text": "Oxygen" },
+        { "id": 4, "text": "Nitrogen" }
+      ],
+      "correctOptionId": 1
+    }
+  ]
+}

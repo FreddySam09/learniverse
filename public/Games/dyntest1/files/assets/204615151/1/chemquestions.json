@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Chemistry is the subject you're learning?",
+      "options": [
+        { "id": 1, "text": "Physics" },
+        { "id": 2, "text": "Chemistry" },
+        { "id": 3, "text": "Maths" },
+        { "id": 4, "text": "Social" }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 2,
+      "text": "Chemistry is your favorite subject?",
+      "options": [
+        { "id": 1, "text": "Physics" },
+        { "id": 2, "text": "Chemistry" },
+        { "id": 3, "text": "Maths" },
+        { "id": 4, "text": "Social" }
+      ],
+      "correctOptionId": 2
+    }
+  ]
+}

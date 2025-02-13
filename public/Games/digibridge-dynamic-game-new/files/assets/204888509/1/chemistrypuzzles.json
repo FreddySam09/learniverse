@@ -1,0 +1,19 @@
+{
+    "puzzles": [
+        {
+            "word": "oxygen",
+            "scrambled": "gyxeno",
+            "hint": "An element essential for respiration and combustion."
+        },
+        {
+            "word": "carbon",
+            "scrambled": "bonrac",
+            "hint": "The backbone of organic molecules."
+        },
+        {
+            "word": "liquid",
+            "scrambled": "diquli",
+            "hint": "A state of matter with a definite volume but no fixed shape."
+        }
+    ]
+}

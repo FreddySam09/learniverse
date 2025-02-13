@@ -1,0 +1,4 @@
++ point and click, get position
++ make payer look the position
++ player moves to the positions
++ smooth cam movement

@@ -1,0 +1,32 @@
+{
+    "subjects": {
+      "chemistry": {
+        "timeSpent": {
+          "lastDay": 0,
+          "pastWeek": 0,
+          "pastMonth": 0,
+          "allTime": 0
+        },
+        "points": 0
+      },
+      "physics": {
+        "timeSpent": {
+          "lastDay": 0,
+          "pastWeek": 0,
+          "pastMonth": 0,
+          "allTime": 0
+        },
+        "points": 0
+      },
+      "biology": {
+        "timeSpent": {
+          "lastDay": 0,
+          "pastWeek": 0,
+          "pastMonth": 0,
+          "allTime": 0
+        },
+        "points": 0
+      }
+    }
+  }
+  

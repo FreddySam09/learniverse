@@ -1,0 +1,19 @@
+{
+    "puzzles": [
+        {
+            "word": "circle",
+            "scrambled": "lcicre",
+            "hint": "A shape where all points are equidistant from the center."
+        },
+        {
+            "word": "square",
+            "scrambled": "qsuare",
+            "hint": "A polygon with four equal sides and angles."
+        },
+        {
+            "word": "radius",
+            "scrambled": "adsiru",
+            "hint": "The distance from the center of a circle to any point on its perimeter."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "puzzles": [
+        {
+            "word": "energy",
+            "scrambled": "gneery",
+            "hint": "A property of matter that is conserved and can be transformed."
+        },
+        {
+            "word": "motion",
+            "scrambled": "otinom",
+            "hint": "The action or process of moving or being moved."
+        },
+        {
+            "word": "forces",
+            "scrambled": "orcfes",
+            "hint": "Interactions that change the motion of objects."
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the unit of force?",
+      "options": [
+        { "id": 1, "text": "Newton" },
+        { "id": 2, "text": "Joule" },
+        { "id": 3, "text": "Watt" },
+        { "id": 4, "text": "Pascal" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 2,
+      "text": "What is the speed of light?",
+      "options": [
+        { "id": 1, "text": "3 × 10^8 m/s" },
+        { "id": 2, "text": "3 × 10^6 m/s" },
+        { "id": 3, "text": "3 × 10^7 m/s" },
+        { "id": 4, "text": "3 × 10^5 m/s" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 3,
+      "text": "Who is known as the father of modern physics?",
+      "options": [
+        { "id": 1, "text": "Isaac Newton" },
+        { "id": 2, "text": "Albert Einstein" },
+        { "id": 3, "text": "Nikola Tesla" },
+        { "id": 4, "text": "Galileo Galilei" }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 4,
+      "text": "What is the SI unit of power?",
+      "options": [
+        { "id": 1, "text": "Joule" },
+        { "id": 2, "text": "Watt" },
+        { "id": 3, "text": "Newton" },
+        { "id": 4, "text": "Pascal" }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 5,
+      "text": "What is the law of inertia?",
+      "options": [
+        { "id": 1, "text": "An object will remain at rest unless acted upon by an external force." },
+        { "id": 2, "text": "Force equals mass times acceleration." },
+        { "id": 3, "text": "Every action has an equal and opposite reaction." },
+        { "id": 4, "text": "Energy cannot be created or destroyed." }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 6,
+      "text": "What is the formula for kinetic energy?",
+      "options": [
+        { "id": 1, "text": "KE = ½ mv^2" },
+        { "id": 2, "text": "KE = mgh" },
+        { "id": 3, "text": "KE = mv" },
+        { "id": 4, "text": "KE = ½ mgh" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 7,
+      "text": "What does the term 'acceleration due to gravity' represent?",
+      "options": [
+        { "id": 1, "text": "The acceleration of a body due to Earth's gravitational pull." },
+        { "id": 2, "text": "The force acting on an object due to gravity." },
+        { "id": 3, "text": "The rate of change of velocity with time." },
+        { "id": 4, "text": "The velocity of an object falling from a height." }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 8,
+      "text": "What is the unit of work?",
+      "options": [
+        { "id": 1, "text": "Joule" },
+        { "id": 2, "text": "Newton" },
+        { "id": 3, "text": "Watt" },
+        { "id": 4, "text": "Ampere" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 9,
+      "text": "What is the formula for Ohm's Law?",
+      "options": [
+        { "id": 1, "text": "V = IR" },
+        { "id": 2, "text": "V = P / R" },
+        { "id": 3, "text": "I = V / R" },
+        { "id": 4, "text": "I = V / P" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 10,
+      "text": "What is the principle of conservation of energy?",
+      "options": [
+        { "id": 1, "text": "Energy cannot be created or destroyed." },
+        { "id": 2, "text": "Energy can only be converted from one form to another." },
+        { "id": 3, "text": "The total energy of an isolated system is constant." },
+        { "id": 4, "text": "All of the above" }
+      ],
+      "correctOptionId": 4
+    }
+  ]
+}

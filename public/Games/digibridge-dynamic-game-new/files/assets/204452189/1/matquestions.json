@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the square root of 144?",
+      "options": [
+        { "id": 1, "text": "12" },
+        { "id": 2, "text": "14" },
+        { "id": 3, "text": "16" },
+        { "id": 4, "text": "10" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 2,
+      "text": "What is the value of pi?",
+      "options": [
+        { "id": 1, "text": "3.14" },
+        { "id": 2, "text": "2.71" },
+        { "id": 3, "text": "1.62" },
+        { "id": 4, "text": "3.00" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 3,
+      "text": "What is the perimeter of a rectangle with length 5cm and width 3cm?",
+      "options": [
+        { "id": 1, "text": "16cm" },
+        { "id": 2, "text": "15cm" },
+        { "id": 3, "text": "10cm" },
+        { "id": 4, "text": "20cm" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 4,
+      "text": "What is the formula for the area of a triangle?",
+      "options": [
+        { "id": 1, "text": "½ × base × height" },
+        { "id": 2, "text": "length × width" },
+        { "id": 3, "text": "side × side" },
+        { "id": 4, "text": "2π × radius" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 5,
+      "text": "What is the result of 15 ÷ 3?",
+      "options": [
+        { "id": 1, "text": "5" },
+        { "id": 2, "text": "4" },
+        { "id": 3, "text": "6" },
+        { "id": 4, "text": "3" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 6,
+      "text": "What is the sum of 25 and 30?",
+      "options": [
+        { "id": 1, "text": "55" },
+        { "id": 2, "text": "60" },
+        { "id": 3, "text": "45" },
+        { "id": 4, "text": "50" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 7,
+      "text": "What is the value of 7 × 8?",
+      "options": [
+        { "id": 1, "text": "56" },
+        { "id": 2, "text": "60" },
+        { "id": 3, "text": "55" },
+        { "id": 4, "text": "50" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 8,
+      "text": "What is the solution to x + 5 = 10?",
+      "options": [
+        { "id": 1, "text": "5" },
+        { "id": 2, "text": "10" },
+        { "id": 3, "text": "15" },
+        { "id": 4, "text": "0" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 9,
+      "text": "What is the area of a circle with radius 3cm?",
+      "options": [
+        { "id": 1, "text": "28.27cm²" },
+        { "id": 2, "text": "30.00cm²" },
+        { "id": 3, "text": "25.12cm²" },
+        { "id": 4, "text": "35.14cm²" }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 10,
+      "text": "What is the cube root of 27?",
+      "options": [
+        { "id": 1, "text": "3" },
+        { "id": 2, "text": "9" },
+        { "id": 3, "text": "6" },
+        { "id": 4, "text": "5" }
+      ],
+      "correctOptionId": 1
+    }
+  ]
+}
